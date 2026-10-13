@@ -1,2 +1,2 @@
 # .github
-Page de présentation et fichiers communs de l’organisation Irréductix
+Page de présentation de l’organisation Irréductix

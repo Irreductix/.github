@@ -1,6 +1,6 @@
 # Irréductix
 
-**Des outils libres pour le service public. Faits par ceux qui s'en servent.**
+**Des outils libres pour le service public, construits à partir de données publiques.**
 
 Irréductix est un collectif informel qui construit les logiciels dont l'hôpital
 public a besoin, et les publie sous licence libre. Pas d'adhésion, pas de

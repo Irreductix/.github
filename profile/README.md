@@ -1,4 +1,4 @@
-# Irréductix
+<p align="center"><img src="irreductix.png" alt="Irréductix, des outils libres pour le service public" width="720"></p>
 
 **Des outils libres pour le service public, construits à partir de données publiques.**
 
@@ -11,8 +11,8 @@ compte chez nous.
 
 | Outil | Le problème qu'il règle | Pour commencer |
 |---|---|---|
-| [**Registris**](https://github.com/irreductix/Registris) | Prouver à un auditeur, matricule par matricule, qui a obtenu quel accès, quand, à la demande de qui et sur quelle pièce. Registre des habilitations et coffre à preuves d'audit pour les établissements publics de santé. | [Installateur Windows](https://github.com/irreductix/Registris/releases/latest), [Présentation](https://irreductix.fr/outils/registris) |
-| [**referentiels-sante**](https://github.com/irreductix/referentiels-sante) | Ouvrir FINESS, la CCAM, la CIM-10, la base des médicaments, la NABM, la LPP, les UCD ou les tarifs GHS dans Excel. Conversion en CSV depuis la source officielle, et aussi en JSON pour FINESS, la CIM-10 et les tarifs GHS. | [FINESS en CSV du mois](https://irreductix.fr/telecharger/finess.zip), [Présentation](https://irreductix.fr/outils/referentiels-sante) |
+| <img src="registris.png" alt="" height="44"><br>[**Registris**](https://github.com/irreductix/Registris) | Prouver à un auditeur, matricule par matricule, qui a obtenu quel accès, quand, à la demande de qui et sur quelle pièce. Registre des habilitations et coffre à preuves d'audit pour les établissements publics de santé. | [Installateur Windows](https://github.com/irreductix/Registris/releases/latest), [Présentation](https://irreductix.fr/outils/registris) |
+| <img src="referentiels-sante.png" alt="" height="44"><br>[**referentiels-sante**](https://github.com/irreductix/referentiels-sante) | Ouvrir FINESS, la CCAM, la CIM-10, la base des médicaments, la NABM, la LPP, les UCD ou les tarifs GHS dans Excel. Conversion en CSV depuis la source officielle, et aussi en JSON pour FINESS, la CIM-10 et les tarifs GHS. | [FINESS en CSV du mois](https://irreductix.fr/telecharger/finess.zip), [Présentation](https://irreductix.fr/outils/referentiels-sante) |
 
 ## Contribuer
 

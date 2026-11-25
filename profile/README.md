@@ -13,6 +13,7 @@ compte chez nous.
 |---|---|---|
 | <img src="registris.png" alt="" height="44"><br>[**Registris**](https://github.com/irreductix/Registris) | Prouver à un auditeur, matricule par matricule, qui a obtenu quel accès, quand, à la demande de qui et sur quelle pièce. Registre des habilitations et coffre à preuves d'audit pour les établissements publics de santé. | [Installateur Windows](https://github.com/irreductix/Registris/releases/latest), [Présentation](https://irreductix.fr/outils/registris) |
 | <img src="referentiels-sante.png" alt="" height="44"><br>[**referentiels-sante**](https://github.com/irreductix/referentiels-sante) | Ouvrir FINESS, la CCAM, la CIM-10, la base des médicaments, la NABM, la LPP, les UCD ou les tarifs GHS dans Excel. Conversion en CSV depuis la source officielle, et aussi en JSON pour FINESS, la CIM-10 et les tarifs GHS. | [FINESS en CSV du mois](https://irreductix.fr/telecharger/finess.zip), [Présentation](https://irreductix.fr/outils/referentiels-sante) |
+| <img src="atlas-des-soins.png" alt="" height="44"><br>[**L'atlas des soins**](https://github.com/irreductix/atlas-des-soins) | Trouver un établissement de santé et savoir ce qu'il fait. La carte des 105 000 établissements de France, Hexagone et outre-mer, avec une fiche pour chacun : autorisations, activité, certification, satisfaction des patients. | [Ouvrir l'atlas](https://atlas-des-soins.irreductix.fr) |
 
 ## Contribuer
 
